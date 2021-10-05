@@ -1,7 +1,7 @@
 # https://github.com/c4pt000/electric-car-charging-redesign
 
 
-* https://github.com/c4pt000/robot-power
+# https://github.com/c4pt000/robot-power
 
 # better-chinese-rover-burn-free-O2
 
